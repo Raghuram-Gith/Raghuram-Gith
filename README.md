@@ -1,94 +1,262 @@
-# 👋 Hi, I'm Raghuram P!
+<div align="center">
 
-### 💻 B.E. Computer Science Engineering | II Year Student
+# 👋 Hey, I'm Raghuram P
 
-🚀 Passionate about building technology that solves real-world problems.
+### `B.E. Computer Science Engineering • II Year • Core CSE`
 
-🧠 Currently exploring **Artificial Intelligence, Machine Learning, Computer Vision & Software Development**.
+**Software Developer • Cloud Enthusiast • AI/ML Explorer • Problem Solver**
 
-🔭 Currently working on **DRISHTI — Explainable AI-based Diabetic Retinopathy Screening**
+I enjoy understanding how technology works, building practical projects, and exploring different areas of Computer Science.
 
-💡 I enjoy turning ideas into practical projects and learning by building.
+[![GitHub](https://img.shields.io/badge/GitHub-Raghuram--Gith-181717?style=for-the-badge\&logo=github)](https://github.com/Raghuram-Gith)
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.E. Computer Science Engineering — II Year
-- 🔬 Interested in AI, Machine Learning & Computer Vision
-- 🚀 Building real-world problem-solving projects
-- 🧠 Currently expanding my skills in AI/ML and software development
-- 💻 Exploring different technologies through hands-on projects
-- 🎯 Goal: Become a skilled software/AI engineer and build impactful technology
+I'm a **Core Computer Science Engineering student** exploring different areas of technology rather than limiting myself to a single specialization.
 
----
+My current interests include **Cloud Computing, Software Development, Computer Science fundamentals, Artificial Intelligence, Machine Learning, and Computer Vision**.
 
-## 🚀 Featured Projects
-
-### 🩺 DRISHTI — Diabetic Retinopathy Screening
-
-> Explainable AI-based screening prototype for diabetic retinopathy.
-
-**Pipeline:**
-
-Fundus Image  
-↓  
-Image Quality Assessment  
-↓  
-Image Enhancement  
-↓  
-Retinal Analysis  
-↓  
-Preliminary DR Assessment  
-↓  
-Visual Evidence  
-↓  
-Screening Report
-
-🛠️ **MATLAB | Image Processing | Machine Learning | Explainable AI**
-
-🔗 [View DRISHTI Repository](https://github.com/Raghuram-Gith/DRISHTI-Diabetic-Retinopathy-Screening)
-
----
-
-### 🚨 Emergency Alert App
-
-A project focused on providing emergency alerts and assistance during critical situations.
-
-🛠️ **Software Development | Mobile Application**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### 🤖 AI / Machine Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8E44AD?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-00BFFF?style=for-the-badge)
-
-### 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🌱 Currently Learning
+I learn best by building — experimenting with technologies, working on projects, solving problems, and understanding what happens behind the scenes.
 
 ```text
-🤖 Artificial Intelligence
-🧠 Machine Learning
+🎓 Core CSE Student
+☁️ Cloud Computing
+💻 Software Development
+🧩 Data Structures & Problem Solving
+🤖 AI / Machine Learning
 👁️ Computer Vision
+🚀 Learning by Building
+```
+
+---
+
+## 🔭 What I'm Exploring
+
+### ☁️ Cloud & Infrastructure
+
+I'm particularly interested in understanding how modern applications are **built, deployed, scaled, and managed in the cloud**.
+
+Areas I'm exploring:
+
+`Cloud Computing` • `Linux` • `Networking` • `Containers` • `Deployment` • `Distributed Systems`
+
+### 💻 Software Development
+
+Building a strong foundation in:
+
+`Programming` • `Data Structures & Algorithms` • `OOP` • `Databases` • `APIs` • `Software Engineering`
+
+### 🤖 AI / Computer Vision
+
+I'm also exploring AI/ML and Computer Vision through hands-on projects, particularly applications where intelligent systems can solve practical problems.
+
+---
+
+# 🚀 Featured Projects
+
+## 🩺 DRISHTI
+
+### Explainable AI-based Diabetic Retinopathy Screening
+
+> **Exploring how Computer Vision and Explainable AI can assist retinal image screening.**
+
+DRISHTI is a screening prototype that processes retinal fundus images and explores how AI-assisted analysis can be made more understandable through **visual evidence**.
+
+```text
+Fundus Image
+     │
+     ▼
+Image Quality Assessment
+     │
+     ▼
+Image Enhancement
+     │
+     ▼
+Retinal Analysis
+     │
+     ▼
+Preliminary Assessment
+     │
+     ▼
+Visual Evidence
+     │
+     ▼
+Screening Report
+```
+
+**Tech:** `MATLAB` `Image Processing` `Machine Learning` `Explainable AI`
+
+🔗 **[Explore DRISHTI →](https://github.com/Raghuram-Gith/DRISHTI-Diabetic-Retinopathy-Screening)**
+
+---
+
+## 🚨 Emergency Alert Application
+
+A mobile application project exploring how software can assist users during **emergency situations**.
+
+The project explores concepts including **voice-based recognition, emergency alerts, and rapid assistance mechanisms**.
+
+**Tech:** `Mobile Development` `Firebase` `Software Development`
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab" />
+</p>
+
+### ☁️ Cloud / Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker" />
+</p>
+
+`Cloud Computing` • `Networking` • `Containers` • `Deployment`
+
+### 🤖 AI / Computer Vision
+
+`Artificial Intelligence` • `Machine Learning` • `Computer Vision` • `Image Processing`
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+☁️ Cloud Computing
+💻 Software Development
+🧩 Data Structures & Algorithms
+🐧 Linux
+🌐 Computer Networks
+🗄️ Databases
 🐍 Python
-💻 Data Structures & Algorithms
-🌐 Software Development
+🤖 Artificial Intelligence
+👁️ Computer Vision
 🔧 Git & GitHub
+```
+
+---
+
+# 🧠 Core CSE Foundation
+
+I'm working on building a strong foundation across the areas that make up Computer Science:
+
+```text
+             ┌──────────────────────┐
+             │     CORE CSE         │
+             └──────────┬───────────┘
+                        │
+       ┌────────────────┼────────────────┐
+       ▼                ▼                ▼
+ Programming          DSA           Computer Networks
+       │                │                │
+       └────────────────┼────────────────┘
+                        ▼
+                   Databases
+                        │
+                        ▼
+                Operating Systems
+                        │
+                        ▼
+              Software Engineering
+                        │
+              ┌─────────┴─────────┐
+              ▼                   ▼
+          ☁️ Cloud             🤖 AI/ML
+```
+
+My goal is to build **strong fundamentals first**, while exploring specialized areas through projects and experimentation.
+
+---
+
+# 🎯 Areas of Interest
+
+| Area                       | Interest |
+| -------------------------- | -------- |
+| ☁️ Cloud Computing         | ⭐⭐⭐⭐⭐    |
+| 💻 Software Development    | ⭐⭐⭐⭐⭐    |
+| 🧩 Core Computer Science   | ⭐⭐⭐⭐⭐    |
+| 🌐 Networking & Systems    | ⭐⭐⭐⭐     |
+| 🤖 Artificial Intelligence | ⭐⭐⭐⭐     |
+| 👁️ Computer Vision        | ⭐⭐⭐⭐     |
+| 🧠 Machine Learning        | ⭐⭐⭐      |
+| 📱 Application Development | ⭐⭐⭐      |
+
+---
+
+# 🧭 My Learning Philosophy
+
+```text
+Understand
+    ↓
+Experiment
+    ↓
+Build
+    ↓
+Break Things
+    ↓
+Debug
+    ↓
+Learn Why
+    ↓
+Improve
+    ↓
+Build Again
+```
+
+> **I don't want to just learn technologies.
+> I want to understand the fundamentals behind them and use them to build useful things.**
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Raghuram-Gith&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghuram-Gith&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Raghuram-Gith&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🚀 Where I'm Heading
+
+I'm working towards becoming a **well-rounded software engineer** with strong Computer Science fundamentals and practical experience across **cloud, software systems, and emerging technologies**.
+
+Rather than deciding on one specialization too early, I'm using my college years to **explore, build, experiment, and figure out where I can create the most value**.
+
+---
+
+<div align="center">
+
+### `Learn • Build • Experiment • Improve`
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Raghuram-Gith\&style=flat-square)
+
+</div>
